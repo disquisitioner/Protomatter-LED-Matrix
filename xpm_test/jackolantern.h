@@ -1,0 +1,36 @@
+const char *jackolantern_xpm[] = {
+// <Values>
+"29 26 4 1",
+// <Colors>
+"a c #ffffff",
+"k c #000000",
+"s c #613613",
+"o c #fa9005",
+// <Pixels>
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+"aaaaaaaaaaaaaaakkaaaaaaaaaaaa",
+"aaaaaaaaaaaaaaksskaaaaaaaaaaa",
+"aaaaaaaaaaaaaksskaaaaaaaaaaaa",
+"aaaaaaaaaaaaakskaaaaaaaaaaaaa",
+"aaaaaaaakkkkakskakkkkaaaaaaaa",
+"aaaaaakkooookkskkooookkaaaaaa",
+"aaaakkoooookookookoooookkaaaa",
+"aaakookoookoooooookoookookaaa",
+"aakookooooooookooooooookookaa",
+"aakokooookooookooookooookokaa",
+"akokooookkkoookoookkkooookoka",
+"akokoookkkkkoooookkkkkoookoka",
+"akokoookkkkkoooookkkkkoookoka",
+"akokooooooooookooooooooookoka",
+"akokoooooooookkkoooooooookoka",
+"akokooooooookkkkkooooooookoka",
+"akooooookkoooooooookkooooooka",
+"akoooooookkoooooookkoooooooka",
+"aakokoooookkkkkkkkkoooookokaa",
+"aakookoooooooooooooooookookaa",
+"aaakookoooooooooooooookookaaa",
+"aaaakkoooooooooooooooookkaaaa",
+"aaaaaakkooooookooooookkaaaaaa",
+"aaaaaaaakkkkkkakkkkkkaaaaaaaa",
+"aaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+};

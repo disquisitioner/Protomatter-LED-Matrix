@@ -1,0 +1,6 @@
+Protomatter LED Matrix Projects
+===============
+
+A pleasant byproduct of the growth in digital signage is the lowering cost and wider availability of LED matrix displays suitable for use in Arduino and Raspberry Pi projects like [this one](https://www.adafruit.com/product/2279) from Adafruit.  Many of these displays conform to a connection standard called "HUB75" and so can be controlled by self-contained programmable [interface boards](https://www.adafruit.com/product/4745) or [adapted](https://www.adafruit.com/product/3036) for use with separate microcontrollers.
+
+Adafruit has developed their own "[Protomatter](https://github.com/adafruit/Adafruit_Protomatter)" software interface library that makes it easy to animate HUB75-compatible displays using [Circuit Python](https://learn.adafruit.com/rgb-led-matrices-matrix-panels-with-circuitpython) or [Arduino](https://learn.adafruit.com/adafruit-protomatter-rgb-matrix-library).  I'm enjoying experimenting with a 32x64 LED matrix panel and have collected various sketches here.
